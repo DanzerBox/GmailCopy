@@ -1,0 +1,7 @@
+{
+  "name": "GmailCopy",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
